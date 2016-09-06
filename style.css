@@ -1,0 +1,56 @@
+body {
+	color: #ffffff;
+	background-color: #404040;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding-left: 50px;
+	padding-bottom: 25px;
+	padding-right: 50px;
+	padding-top: 25px;
+	border: 4px solid grey;
+}
+hr {
+	color: solid grey;
+	margin-right: 2px;
+	margin-left: 2px;
+}
+img {
+	border: solid grey;
+	border-width: 1px;
+	float: right;
+}
+#ul.square
+img {
+	padding-left: .2cm;
+	padding-bottom: .2cm;
+	padding-right: .2cm;
+	padding-top: .2cm;
+}
+ {
+	font-size: 20px
+}
+#site_name {
+	font-size: 250%;
+	text-align: center;
+}
+.links {
+	font-size: 20px;
+	text-align: center;
+}
+p {
+	font-size: 20px;
+	line-height: 1.5;	
+}
+a:link {
+    color: #0066ff;
+}
+a:visited {
+    color: #66cc99;
+}
+a:hover {
+    color: #ff66ff;
+}
+a:active {
+    color: #33adff;
+}
+
